@@ -1,0 +1,6 @@
+carla==0.9.16          # only needed when running against real CARLA server
+numpy==1.26.4
+opencv-python==4.10.0.84
+matplotlib==3.8.4
+scipy==1.13.1
+pygame==2.5.2          # used by the built-in mock simulator (no CARLA needed)

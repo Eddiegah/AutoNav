@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.env
+# keep the placeholder but ignore real run outputs
+results/trajectory_comparison_run_*.png
+results/*.mp4
+results/*.log
+logs/
+*.carla_data
