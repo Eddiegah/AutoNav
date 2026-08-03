@@ -7,6 +7,8 @@ __pycache__/
 dist/
 build/
 .env
+.DS_Store
+
 # keep the placeholder but ignore real run outputs
 results/trajectory_comparison_run_*.png
 results/*.mp4
